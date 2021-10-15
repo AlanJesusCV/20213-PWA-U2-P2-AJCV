@@ -1,7 +1,7 @@
 let principal = $('#principal');
 let notice = $('#notice');
 
-let url =window.location.href;
+let url = window.location.href;
 let swDirect = '/20213-PWA-U2-P2-AJCV/sw.js';
 
 // Preguntamos si navegador y/o el sitio dispone de sw

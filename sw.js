@@ -30,7 +30,8 @@ self.addEventListener("install",(event) =>{
             "images/noticia2.png",
             "images/noticia3.png",
             "images/noticia4.png",
-            "js/app.js"
+            "js/app.js",
+            "css/pages.js"
         ]);
     });
 
